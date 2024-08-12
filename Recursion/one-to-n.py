@@ -1,5 +1,5 @@
-def recFn(i:int, n:int):
-    if (i > n): return
+def recFn(i:int, n:int) -> int:
+    if (i > n): return 0
     print(i, end=' ')
     recFn(i+1, n)
 
