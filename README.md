@@ -11,9 +11,14 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhavya-dang/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [1310-watering-plants](https://github.com/bhavya-dang/DSA-Practice/tree/master/1310-watering-plants) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/bhavya-dang/DSA-Practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhavya-dang/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Simulation
+|  |
+| ------- |
+| [1310-watering-plants](https://github.com/bhavya-dang/DSA-Practice/tree/master/1310-watering-plants) |
 <!---LeetCode Topics End-->
