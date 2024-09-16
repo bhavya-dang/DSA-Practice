@@ -1,1 +1,32 @@
-{"leetcode":{"easy":2,"hard":0,"medium":2,"shas":{"1878-check-if-array-is-sorted-and-rotated":{"1878-check-if-array-is-sorted-and-rotated.py":"e2db6e3e67c29a355c651d85706716b596fbad12","README.md":"71e06a7e29eca92e38c35bb3ce1040fa5e0ef7d2","difficulty":"easy"},"README.md":{"":"441d44d6a37c4fda694d9e86249e8604450411f9"},"0026-remove-duplicates-from-sorted-array":{"0026-remove-duplicates-from-sorted-array.py":"9684ba0d060f081c1988fe0c8803b4e8495fdf40","README.md":"347d48028e5b233f473e529176aa780f584325e5","difficulty":"easy"},"stats.json":{"":"aae1893975410f7215334851b5faabf4d7537132"},"1310-watering-plants":{"1310-watering-plants.py":"51bd9c7d74a605a7efc38f0fcf708aa64116f311","README.md":"369fba34dbc4aa9fc69e7004684e56a8fa882e64","difficulty":"medium"},"0539-minimum-time-difference":{"0539-minimum-time-difference.py":"60820b95139faeab38b639de5ec2593e6668782e","README.md":"e873c0cb877466b44e7d07926d1fd89e489466da","difficulty":"medium"}},"solved":4}}
+{
+  "leetcode": {
+    "easy": 2,
+    "hard": 0,
+    "medium": 2,
+    "shas": {
+      "1878-check-if-array-is-sorted-and-rotated": {
+        "1878-check-if-array-is-sorted-and-rotated.py": "e2db6e3e67c29a355c651d85706716b596fbad12",
+        "README.md": "71e06a7e29eca92e38c35bb3ce1040fa5e0ef7d2",
+        "difficulty": "easy"
+      },
+      "README.md": { "": "441d44d6a37c4fda694d9e86249e8604450411f9" },
+      "0026-remove-duplicates-from-sorted-array": {
+        "0026-remove-duplicates-from-sorted-array.py": "9684ba0d060f081c1988fe0c8803b4e8495fdf40",
+        "README.md": "347d48028e5b233f473e529176aa780f584325e5",
+        "difficulty": "easy"
+      },
+      "stats.json": { "": "aae1893975410f7215334851b5faabf4d7537132" },
+      "1310-watering-plants": {
+        "1310-watering-plants.py": "51bd9c7d74a605a7efc38f0fcf708aa64116f311",
+        "README.md": "369fba34dbc4aa9fc69e7004684e56a8fa882e64",
+        "difficulty": "medium"
+      },
+      "0539-minimum-time-difference": {
+        "0539-minimum-time-difference.py": "60820b95139faeab38b639de5ec2593e6668782e",
+        "README.md": "e873c0cb877466b44e7d07926d1fd89e489466da",
+        "difficulty": "medium"
+      }
+    },
+    "solved": 4
+  }
+}
