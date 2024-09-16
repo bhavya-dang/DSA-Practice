@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhavya-dang/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0539-minimum-time-difference](https://github.com/bhavya-dang/DSA-Practice/tree/master/0539-minimum-time-difference) |
 | [1310-watering-plants](https://github.com/bhavya-dang/DSA-Practice/tree/master/1310-watering-plants) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/bhavya-dang/DSA-Practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
@@ -21,4 +22,16 @@
 |  |
 | ------- |
 | [1310-watering-plants](https://github.com/bhavya-dang/DSA-Practice/tree/master/1310-watering-plants) |
+## Math
+|  |
+| ------- |
+| [0539-minimum-time-difference](https://github.com/bhavya-dang/DSA-Practice/tree/master/0539-minimum-time-difference) |
+## String
+|  |
+| ------- |
+| [0539-minimum-time-difference](https://github.com/bhavya-dang/DSA-Practice/tree/master/0539-minimum-time-difference) |
+## Sorting
+|  |
+| ------- |
+| [0539-minimum-time-difference](https://github.com/bhavya-dang/DSA-Practice/tree/master/0539-minimum-time-difference) |
 <!---LeetCode Topics End-->
