@@ -4,7 +4,10 @@ class Solution:
         s2Arr = s2.strip().lower().split(" ")
         s1Arr.extend(s2Arr)
 
-        uncommonWords = [w for w in s1Arr if s1Arr.count(w) == 1] 
+        uncommonWords = []
+        for w in s1Arr:
+            if s1Arr.count(w) == 1:
+                uncommonWords.append(w)
             
         return uncommonWords
 
