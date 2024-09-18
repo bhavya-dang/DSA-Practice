@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhavya-dang/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0179-largest-number](https://github.com/bhavya-dang/DSA-Practice/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/bhavya-dang/DSA-Practice/tree/master/0539-minimum-time-difference) |
 | [1310-watering-plants](https://github.com/bhavya-dang/DSA-Practice/tree/master/1310-watering-plants) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/bhavya-dang/DSA-Practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -29,11 +30,13 @@
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/bhavya-dang/DSA-Practice/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/bhavya-dang/DSA-Practice/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/bhavya-dang/DSA-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/bhavya-dang/DSA-Practice/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/bhavya-dang/DSA-Practice/tree/master/0539-minimum-time-difference) |
 ## Hash Table
 |  |
@@ -43,4 +46,8 @@
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/bhavya-dang/DSA-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/bhavya-dang/DSA-Practice/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
